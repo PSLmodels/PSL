@@ -12,7 +12,7 @@ To submit a public policy simulation project to PSL, please bring your model or 
 
 --------------------------------
 
-1 pm on Tuesdays
+1 pm Eastern on Tuesdays
 
 Join Webex meeting
 https://ospc.my.webex.com/join/matt.jensen  |  628 792 770
