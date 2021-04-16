@@ -36,7 +36,7 @@ Acceptance Criteria for Transparency and Quality
 1. Projects MUST have a project overview.
 1. Projects MUST have installation directions.
 1. Project MUST be mirrored in the same GitHub organization as PSL, and therefore they MUST be under version control.
-1. Projects MUST use a consistent versioning scheme, which SHOULD be [semantic versioning](https://semver.org/). If projects want to use the PSL Package-Builder tool to distribute packages via the Anaconda Cloud PSLmodels channel, there are [additional MUST criteria](https://github.com/PSLmodels/Package-Builder#using-package-builders-pbrelease-tool).
+1. Projects MUST use a consistent versioning scheme, which SHOULD be [semantic versioning](https://semver.org/).
 
 Community Criteria
 -------------------
@@ -47,10 +47,10 @@ Community Criteria
 1. Projects SHOULD list technical contributors.
 1. Projects SHOULD list funders.
 1. Projects SHOULD list user citations and case studies.
-1. Projects SHOULD include subject matter tags, choosing from ...
 1. Projects SHOULD include a disclaimer.
 1. Projects SHOULD have a public issues tracker.
 1. Projects SHOULD have a changelog.
+1. Projects SHOULD adopt a consistent code formatting scheme. Projects MAY use an automated code formatter like [Black](https://black.readthedocs.io/en/stable/).
 1. Projects MAY have a Stack Overflow channel.
 1. Projects MAY include a "News" translation of the changelog for users.
 1. Projects MAY include criteria for participating in cross-model PSL initiatives.
